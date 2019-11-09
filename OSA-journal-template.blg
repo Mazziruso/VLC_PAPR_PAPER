@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: OSA-journal-template.aux
+The style file: osajnlnt.bst
+Database file #1: MyReference.bib
+Warning--I didn't find a database entry for "1"
+You've used 26 entries,
+            2644 wiz_defined-function locations,
+            749 strings with 9538 characters,
+and the built_in function-call counts, 9946 in all, are:
+= -- 680
+> -- 316
+< -- 14
++ -- 115
+- -- 89
+* -- 665
+:= -- 1084
+add.period$ -- 51
+call.type$ -- 26
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 962
+empty$ -- 1018
+format.name$ -- 112
+if$ -- 2328
+int.to.chr$ -- 0
+int.to.str$ -- 26
+missing$ -- 236
+newline$ -- 82
+num.names$ -- 26
+pop$ -- 362
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 307
+stack$ -- 0
+substring$ -- 431
+swap$ -- 643
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 69
+width$ -- 28
+write$ -- 222
+(There was 1 warning)

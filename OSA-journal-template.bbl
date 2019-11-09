@@ -1,0 +1,132 @@
+\begin{thebibliography}{10}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{o2008visible}
+D.~C. O'Brien, L.~Zeng, H.~Le-Minh, G.~Faulkner, J.~W. Walewski, and S.~Randel,
+  \enquote{Visible light communications: Challenges and possibilities,} in
+  \emph{2008 IEEE 19th International Symposium on Personal, Indoor and Mobile
+  Radio Communications,}  (IEEE, 2008), pp. 1--5.
+
+\bibitem{6011734}
+H.~{Elgala}, R.~{Mesleh}, and H.~{Haas}, {\protect\JournalTitle{IEEE
+  Communications Magazine}} \textbf{49}, 56 (2011).
+
+\bibitem{rajbhandari2015high}
+S.~Rajbhandari, H.~Chun, G.~Faulkner, K.~Cameron, A.~V. Jalajakumari,
+  R.~Henderson, D.~Tsonev, M.~Ijaz, Z.~Chen, H.~Haas \emph{et~al.},
+  {\protect\JournalTitle{IEEE Journal on Selected Areas in Communications}}
+  \textbf{33}, 1750 (2015).
+
+\bibitem{elgala2007ofdm}
+H.~Elgala, R.~Mesleh, H.~Haas, and B.~Pricope, \enquote{Ofdm visible light
+  wireless communication based on white leds,} in \emph{2007 IEEE 65th
+  Vehicular Technology Conference-VTC2007-Spring,}  (IEEE, 2007), pp.
+  2185--2189.
+
+\bibitem{armstrong2009ofdm}
+J.~Armstrong, {\protect\JournalTitle{Journal of lightwave technology}}
+  \textbf{27}, 189 (2009).
+
+\bibitem{afgani2006visible}
+M.~Z. Afgani, H.~Haas, H.~Elgala, and D.~Knipp, \enquote{Visible light
+  communication using ofdm,} in \emph{2nd International Conference on Testbeds
+  and Research Infrastructures for the Development of Networks and Communities,
+  2006. TRIDENTCOM 2006.},  (IEEE, 2006), pp. 6--pp.
+
+\bibitem{hranilovic2005design}
+S.~Hranilovic, {\protect\JournalTitle{International Journal of Communication
+  Systems}} \textbf{18}, 205 (2005).
+
+\bibitem{fernando2011flip}
+N.~Fernando, Y.~Hong, and E.~Viterbo, \enquote{Flip-ofdm for optical wireless
+  communications,} in \emph{2011 IEEE Information Theory Workshop,}  (IEEE,
+  2011), pp. 5--9.
+
+\bibitem{lee2009pam}
+S.~C.~J. Lee, S.~Randel, F.~Breyer, and A.~M. Koonen,
+  {\protect\JournalTitle{IEEE Photonics Technology Letters}} \textbf{21}, 1749
+  (2009).
+
+\bibitem{carruthers1996multiple}
+J.~B. Carruthers and J.~M. Kahn, {\protect\JournalTitle{IEEE Journal on
+  Selected Areas in Communications}} \textbf{14}, 538 (1996).
+
+\bibitem{parvez2010peak}
+M.~Z. Parvez, M.~Baki, and A.~Al, \enquote{Peak to average power ratio (papr)
+  reduction in ofdm based radio systems,}  (2010).
+
+\bibitem{zekri1999dmt}
+M.~Zekri, P.~Boets, and L.~Van~Biesen, \enquote{Dmt signals with low
+  peak-to-average power ratio,} in \emph{Proceedings IEEE International
+  Symposium on Computers and Communications (Cat. No. PR00250),}  (IEEE, 1999),
+  pp. 362--368.
+
+\bibitem{elgala2009non}
+H.~Elgala, R.~Mesleh, and H.~Haas, {\protect\JournalTitle{International Journal
+  of Ultra Wideband Communications and Systems}} \textbf{1}, 143 (2009).
+
+\bibitem{yu2013peak}
+Z.~Yu, R.~J. Baxley, and G.~T. Zhou, \enquote{Peak-to-average power ratio and
+  illumination-to-communication efficiency considerations in visible light ofdm
+  systems,} in \emph{2013 IEEE International Conference on Acoustics, Speech
+  and Signal Processing,}  (IEEE, 2013), pp. 5397--5401.
+
+\bibitem{yu2014distributions}
+Z.~Yu, R.~J. Baxley, and G.~T. Zhou, \enquote{Distributions of upper papr and
+  lower papr of ofdm signals in visible light communications,} in \emph{2014
+  IEEE International Conference on Acoustics, Speech and Signal Processing
+  (ICASSP),}  (IEEE, 2014), pp. 355--359.
+
+\bibitem{zhang2014papr}
+H.~Zhang, Y.~Yuan, and W.~Xu, {\protect\JournalTitle{IEEE Photonics Technology
+  Letters}} \textbf{26}, 1718 (2014).
+
+\bibitem{han2005overview}
+S.~H. Han and J.~H. Lee, {\protect\JournalTitle{IEEE wireless communications}}
+  \textbf{12}, 56 (2005).
+
+\bibitem{yu2015low}
+P.~Yu and S.~Jin, {\protect\JournalTitle{IEEE transactions on broadcasting}}
+  \textbf{61}, 710 (2015).
+
+\bibitem{jacklin2011convex}
+N.~Jacklin and Z.~Ding, \enquote{A convex optimization approach to reducing
+  peak-to-average-power ratio in ofdm,} in \emph{2011 IEEE International
+  Symposium of Circuits and Systems (ISCAS),}  (IEEE, 2011), pp. 973--976.
+
+\bibitem{hu2014tone}
+M.~Hu, Y.~Li, X.~Lu, and H.~Zhang, {\protect\JournalTitle{IEEE Transactions on
+  Vehicular Technology}} \textbf{64}, 4310 (2014).
+
+\bibitem{siuzdak2018modeling}
+J.~Siuzdak, M.~Kowalczyk, and G.~Stepniak, \enquote{On the modeling of lighting
+  led dynamic nonlinearity,} in \emph{Photonics Applications in Astronomy,
+  Communications, Industry, and High-Energy Physics Experiments 2018,} , vol.
+  10808 (International Society for Optics and Photonics, 2018), p. 1080804.
+
+\bibitem{tellado2006multicarrier}
+J.~Tellado, \emph{Multicarrier modulation with low PAR: applications to DSL and
+  wireless}, vol. 587 (Springer Science \& Business Media, 2006).
+
+\bibitem{7881207}
+L.~{Kong}, W.~{Xu}, H.~{Zhang}, and C.~{Zhao}, \enquote{R-ofdm transmission
+  scheme for visible light communication using rgba-led,} in \emph{2016 IEEE
+  84th Vehicular Technology Conference (VTC-Fall),}  (2016), pp. 1--6.
+
+\bibitem{7912358}
+B.~{Li}, W.~{Xu}, H.~{Zhang}, C.~{Zhao}, and L.~{Hanzo},
+  {\protect\JournalTitle{IEEE Transactions on Vehicular Technology}}
+  \textbf{66}, 9561 (2017).
+
+\bibitem{7925910}
+J.~{Du}, W.~{Xu}, H.~{Zhang}, and C.~{Zhao}, \enquote{Visible light
+  communications using spatial summing pam with led array,} in \emph{2017 IEEE
+  Wireless Communications and Networking Conference (WCNC),}  (2017), pp. 1--6.
+
+\bibitem{8108349}
+J.~{Xu}, H.~{Shen}, W.~{Xu}, H.~{Zhang}, and X.~{You}, \enquote{Led-assisted
+  three-dimensional indoor positioning for multiphotodiode device interfered by
+  multipath reflections,} in \emph{2017 IEEE 85th Vehicular Technology
+  Conference (VTC Spring),}  (2017), pp. 1--6.
+
+\end{thebibliography}
